@@ -1,0 +1,23 @@
+/*Author:         Juan Valencia
+    Date:           03/14/2019
+    Assignment:     Midterm
+    Class:          Web Development with PHP
+*/
+
+
+html {
+    color: cornflowerblue;
+    background-color: lightgray;
+}
+
+body {
+    text-align: center;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+.password, .username {
+    font-weight: bold;
+}
